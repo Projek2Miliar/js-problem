@@ -8,6 +8,7 @@
 
 function minMax(arr) {
     // lanjutakan code dibawah
+    asdoiasdio
 }
 
 module.exports = minMax
