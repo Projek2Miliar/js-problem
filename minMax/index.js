@@ -8,7 +8,9 @@
 
 function minMax(arr) {
     // lanjutakan code dibawah
-    asdoiasdio
+    const min = Math.min(...arr)
+    const max = Math.max(...arr)
+    return { min, max }
 }
 
 module.exports = minMax
