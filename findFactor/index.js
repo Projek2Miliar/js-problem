@@ -10,7 +10,8 @@ findFactor(7,5) -> "angka 7 hanya memiliki 2 faktor yaitu 1,7"
 */
 
 function findFactor(n, many) {
-    // lanjutkan dibawah
+    // lanjutkan dibawah]
+    console.log(n)
 }
 
 module.exports = findFactor
